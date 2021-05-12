@@ -1,14 +1,10 @@
 {
   "name": "generated-theme",
-  "displayName": "Generated Theme",
-  "publisher": "your-name",
-  "description": "A generated theme for Visual Studio Code",
+  "displayName": "hash-dark",
+  "publisher": "Blessing Hirwa",
+  "description": "Dark them for Visual Studio Code that was inspired by Hashnode's syntax highlighting",
   "version": "0.0.1",
   "license": "MIT",
-  "scripts": {
-    "prestart": "tsc index.ts",
-    "start": "node index.js"
-  },
   "engines": {
     "vscode": "^1.11.0"
   },
@@ -26,7 +22,7 @@
   },
   "devDependencies": {
     "@types/node": "^7.0.10",
-    "typescript": "^2.2.1",
+    "typescript": "^4.2.4",
     "vscode-theme-generator": "*"
   }
 }
