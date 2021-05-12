@@ -456,7 +456,7 @@
         "text.html.nunjucks"
       ],
       "settings": {
-        "foreground": "#a2aabc"
+        "foreground": "#FFFFFF"
       }
     },
     {
@@ -656,28 +656,28 @@
       }
     },
 
-    {
-      "name": "meta.method.js",
-      "scope": [
-        "meta.class-method.js entity.name.function.js",
-        "variable.function.constructor"
-      ],
-      "settings": {
-        "foreground": "#5ccfe6"
-      }
-    },
-    {
-      "name": "meta.method.js",
-      "scope": ["meta.function-call.js"],
-      "settings": {
-        "foreground": "#5ccfe6"
-      }
-    },
+    // {
+    //   "name": "meta.method.js",
+    //   "scope": [
+    //     "meta.class-method.js entity.name.function.js ",
+    //     "variable.function.constructor"
+    //   ],
+    //   "settings": {
+    //     "foreground": "#5ccfe6"
+    //   }
+    // },
+    // {
+    //   "name": "meta.method.js",
+    //   "scope": ["meta.function-call.js"],
+    //   "settings": {
+    //     "foreground": "#5ccfe6"
+    //   }
+    // },
     {
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#ffae57"
+        "foreground": "#e6db74"
       }
     },
     {
@@ -1027,7 +1027,7 @@
     {
       "scope": "punctuation.other.period.go",
       "settings": {
-        "foreground": "#ffae57"
+        "foreground": "#FFFFFF"
       }
     }
   ]
