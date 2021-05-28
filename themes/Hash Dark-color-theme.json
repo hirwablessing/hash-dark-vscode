@@ -394,10 +394,11 @@
       }
     },
     {
+      //Color for function keyword
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder", "source"],
       "settings": {
-        "foreground": "#f92672" //CHANGE COLOR FOR FUNCTION keyword
+        "foreground": "#f92672"
       }
     },
     {
@@ -424,7 +425,6 @@
       "name": "Keyword, Storage, Number, Constant",
       "scope": [
         "keyword",
-        // "storage.type", //REMOVE FUNCTION KEYWORD FROM USING THIS COLOR
         "storage.modifier",
         "constant.numeric",
         "constant.language",
@@ -451,8 +451,9 @@
         "string.unquoted.tag-string.nunjucks",
         "text.html.nunjucks"
       ],
+
+      //color for data types like const
       "settings": {
-        //color for data types like const
         "foreground": "#f92672"
       }
     },
@@ -460,8 +461,6 @@
       "name": "handlebars operators",
       "scope": [
         "punctuation.separator.key-value.html",
-        // "keyword.control",//comment return,if and other keywords
-        // "keyword.operator",//comment operator colors
         "constant.other.color",
         "punctuation.definition.constant",
         "meta.function.block.start.handlebars",
@@ -479,22 +478,17 @@
       }
     },
     {
+      //comment operator colors
       "name": "Attribute Equal Signs",
-      "scope": [
-        "punctuation.separator.key-value.html",
-        // "keyword.control",//comment return,if and other keywords
-        "keyword.operator" //comment operator colors
-      ],
+      "scope": ["punctuation.separator.key-value.html", "keyword.operator"],
       "settings": {
         "foreground": "#D6DAE3"
       }
     },
     {
+      //Color for return,if and other keywords
       "name": "Keywords like return, if and others",
-      "scope": [
-        "punctuation.separator.key-value.html",
-        "keyword.control" //comment return,if and other keywords
-      ],
+      "scope": ["punctuation.separator.key-value.html", "keyword.control"],
       "settings": {
         "foreground": "#f92672"
       }
@@ -513,7 +507,6 @@
         "support.class.component"
       ],
       "settings": {
-        //color for other objects
         "foreground": "#f92672"
       }
     },
@@ -527,7 +520,6 @@
         "meta.jsx"
       ],
       "settings": {
-        //color for other objects
         "foreground": "#D6DAE3"
       }
     },
@@ -540,8 +532,9 @@
         "keyword.other.special-method",
         "keyword.control.filter"
       ],
+
+      //color for function names
       "settings": {
-        //color for function names
         "foreground": "#a6e22e"
       }
     },
@@ -667,23 +660,6 @@
       }
     },
 
-    // {
-    //   "name": "meta.method.js",
-    //   "scope": [
-    //     "meta.class-method.js entity.name.function.js ",
-    //     "variable.function.constructor"
-    //   ],
-    //   "settings": {
-    //     "foreground": "#5ccfe6"
-    //   }
-    // },
-    // {
-    //   "name": "meta.method.js",
-    //   "scope": ["meta.function-call.js"],
-    //   "settings": {
-    //     "foreground": "#5ccfe6"
-    //   }
-    // },
     {
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
