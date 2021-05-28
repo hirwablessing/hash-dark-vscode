@@ -1,28 +1,21 @@
 {
-  "name": "generated-theme",
-  "displayName": "hash-dark",
-  "publisher": "Blessing Hirwa",
-  "description": "Dark them for Visual Studio Code that was inspired by Hashnode's syntax highlighting",
-  "version": "0.0.1",
-  "license": "MIT",
-  "engines": {
-    "vscode": "^1.11.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Generated theme",
-        "uiTheme": "vs-dark",
-        "path": "./theme.json"
-      }
-    ]
-  },
-  "devDependencies": {
-    "@types/node": "^7.0.10",
-    "typescript": "^4.2.4",
-    "vscode-theme-generator": "*"
-  }
+    "name": "hash-dark",
+    "displayName": "Hash Dark",
+    "description": "Dark theme for vs code inspired by Hashnode blog code syntax highlighting",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hash Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hash Dark-color-theme.json"
+            }
+        ]
+    }
 }
