@@ -1,21 +1,34 @@
 {
-    "name": "hash-dark",
-    "displayName": "Hash Dark",
-    "description": "Dark theme for vs code inspired by Hashnode blog code syntax highlighting",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.56.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Hash Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Hash Dark-color-theme.json"
-            }
-        ]
-    }
+  "name": "hash-dark",
+  "displayName": "Hash Dark",
+  "description": "Dark theme for vs code inspired by Hashnode blog code syntax highlighting",
+  "version": "0.0.1",
+  "publisher": "BlessingHirwa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hirwablessing/hash-dark-vscode"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "hash-dark",
+    "hash dark",
+    "hashnode",
+    "hash dark theme"
+  ],
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hash Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hash Dark-color-theme.json"
+      }
+    ]
+  }
 }
