@@ -8,7 +8,7 @@
   A minimal, dark blue theme for VS Code</a>.
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/demo.png)
+![demo](images/demo.png)
 
 ## Installation via VS Code
 
