@@ -2,6 +2,7 @@
   "name": "hash-dark",
   "displayName": "Hash Dark",
   "description": "Dark theme for vs code inspired by Hashnode blog code syntax highlighting",
+  "icon": "images/logo.png",
   "version": "0.0.1",
   "publisher": "BlessingHirwa",
   "repository": {

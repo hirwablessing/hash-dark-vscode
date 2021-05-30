@@ -402,6 +402,14 @@
       }
     },
     {
+      //Color for variable name
+      "name": "Variables",
+      "scope": ["variable"],
+      "settings": {
+        "foreground": "#D6DAE3"
+      }
+    },
+    {
       "name": "Colors",
       "scope": [
         "constant.other.color",
