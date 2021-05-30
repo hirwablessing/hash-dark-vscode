@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/logo.png" width="100" />
+  <img alt="Hash Dark Logo" src="images/logo.png" width="100" />
 </p>
 <h1 align="center">
   Hash Dark Theme for VS Code
@@ -57,6 +57,8 @@ Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vs
 [VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
 
 [VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
+
+Documention of the theme was inspired by [Halcony Theme](https://github.com/bchiang7/halcyon-vscode)
 
 Syntax & Workbench colors based on [Hashnode Blgo Syntax Highlighting](https://hashnode.com/)
 
