@@ -123,10 +123,6 @@
     "tab.unfocusedHoverBackground": "#1d2433",
     "tab.hoverBorder": "#ffcc66",
     "tab.unfocusedHoverBorder": "#ffcc6677",
-    // "tab.activeModifiedBorder": "#ffcc66",
-    // "tab.inactiveModifiedBorder": "#ffcc66",
-    // "tab.unfocusedActiveModifiedBorder": "#ffcc66",
-    // "tab.unfocusedInactiveModifiedBorder": "#ffcc66",
     "editorPane.background": "#1d2433",
 
     // Editor colors

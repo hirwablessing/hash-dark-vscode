@@ -58,9 +58,9 @@ Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vs
 
 [VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
 
-Documention of the theme was inspired by [Halcony Theme](https://github.com/bchiang7/halcyon-vscode)
+Documention and Logo of the theme was inspired by [Halcony Theme](https://github.com/bchiang7/halcyon-vscode)
 
-Syntax & Workbench colors based on [Hashnode Blgo Syntax Highlighting](https://hashnode.com/)
+Syntax & Workbench colors based on [Hashnode Blog Syntax Highlighting](https://hashnode.com/)
 
 ```bash
 vsce publish patch/minor/major
