@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Hash Dark Logo" src="images/logo.png" width="100" />
+  <img alt="Hash Dark Logo" src="https://github.com/hirwablessing/hash-dark-vscode/blob/main/images/logo.png?raw=true" width="100" />
 </p>
 <h1 align="center">
   Hash Dark Theme for VS Code
@@ -8,7 +8,9 @@
   A minimal, dark blue theme for VS Code</a>.
 </p>
 
-![demo](images/demo.png)
+![demo](https://github.com/hirwablessing/hash-dark-vscode/blob/main/images/demo.png?raw=true)
+
+<h1 align
 
 ## Installation via VS Code
 

@@ -33,5 +33,9 @@
         "path": "./themes/Hash Dark-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "global": "^4.4.0",
+    "vsce": "^1.88.0"
   }
 }
