@@ -402,7 +402,7 @@
       "name": "Variables",
       "scope": ["variable"],
       "settings": {
-        "foreground": "#D6DAE3"
+        "foreground": "#C9D1D9"
       }
     },
     {
@@ -486,7 +486,7 @@
       "name": "Attribute Equal Signs",
       "scope": ["punctuation.separator.key-value.html", "keyword.operator"],
       "settings": {
-        "foreground": "#D6DAE3"
+        "foreground": "#C9D1D9"
       }
     },
     {
@@ -524,7 +524,7 @@
         "meta.jsx"
       ],
       "settings": {
-        "foreground": "#D6DAE3"
+        "foreground": "#C9D1D9"
       }
     },
     {
@@ -547,7 +547,7 @@
       "scope": ["meta.function-call"],
       "settings": {
         //color for function names
-        "foreground": "#D6DAE3"
+        "foreground": "#C9D1D9"
       }
     },
     {
@@ -569,7 +569,7 @@
         "variable.other.object.property"
       ],
       "settings": {
-        "foreground": "#D6DAE3"
+        "foreground": "#C9D1D9"
       }
     },
     {
@@ -620,7 +620,7 @@
         "variable.other.readwrite"
       ],
       "settings": {
-        "foreground": "#D6DAE3"
+        "foreground": "#C9D1D9"
       }
     },
     {
@@ -1018,7 +1018,7 @@
     {
       "scope": "punctuation.other.period.go",
       "settings": {
-        "foreground": "#D6DAE3"
+        "foreground": "#C9D1D9"
       }
     }
   ]

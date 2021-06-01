@@ -34,8 +34,8 @@ Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vs
 | ![#A6E22E](https://via.placeholder.com/10/a6e22e?text=+) `#a6e22e` | Functions, classes, object literal keys         |
 | ![#e6db74](https://via.placeholder.com/10/e6db74?text=+) `#e6db74` | Constants, operators                            |
 | ![#a6e22e](https://via.placeholder.com/10/bae67e?text=+) `#a6e22e` | Strings, markdown headings                      |
-| ![#D6DAE3](https://via.placeholder.com/10/D6DAE3?text=+) `#D6DAE3` | Special keywords, classes, markdown code blocks |
-| ![#D6DAE3](https://via.placeholder.com/10/D6DAE3?text=+) `#D6DAE3` | Variables, property names, tags                 |
+| ![#C9D1D9](https://via.placeholder.com/10/C9D1D9?text=+) `#C9D1D9` | Special keywords, classes, markdown code blocks |
+| ![#C9D1D9](https://via.placeholder.com/10/C9D1D9?text=+) `#C9D1D9` | Variables, property names, tags                 |
 
 ### UI Colors
 
@@ -46,11 +46,11 @@ Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vs
 | ![#2f3b54](https://via.placeholder.com/10/2f3b54?text=+) `#2f3b54` | Highlight, widgets, panels                 |
 | ![#1f2937](https://via.placeholder.com/10/1f2937?text=+) `#1f2937` | Dividers, subtle UI elements               |
 | ![#1f2937](https://via.placeholder.com/10/1f2937?text=+) `#1f2937` | Status bar text, buttons, etc              |
-| ![#d6dae3](https://via.placeholder.com/10/d6dae3?text=+) `#d6dae3` | Active text, anything that should be white |
+| ![#C9D1D9](https://via.placeholder.com/10/C9D1D9?text=+) `#C9D1D9` | Active text, anything that should be white |
 | ![#e6db74](https://via.placeholder.com/10/e6db74?text=+) `#e6db74` | Accent, list tree titles, badges, etc      |
 | ![#a6e22e](https://via.placeholder.com/10/a6e22e?text=+) `#a6e22e` | Addition highlights                        |
 | ![#f92672](https://via.placeholder.com/10/f92672?text=+) `#f92672` | Deletion highlights, errors, warnings      |
-| ![#d6dae3](https://via.placeholder.com/10/5ccfe6?text=+) `#d6dae3` | Modified highlights                        |
+| ![#C9D1D9](https://via.placeholder.com/10/5ccfe6?text=+) `#C9D1D9` | Modified highlights                        |
 
 ## Theming Reference
 
