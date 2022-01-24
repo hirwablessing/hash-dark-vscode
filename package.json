@@ -3,7 +3,7 @@
   "displayName": "Hash Dark",
   "description": "Dark theme for vs code inspired by Hashnode blog code syntax highlighting",
   "icon": "images/logo.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "BlessingHirwa",
   "repository": {
     "type": "git",
@@ -34,8 +34,5 @@
       }
     ]
   },
-  "dependencies": {
-    "global": "^4.4.0",
-    "vsce": "^1.88.0"
-  }
+  "dependencies": {}
 }
